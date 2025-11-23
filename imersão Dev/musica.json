@@ -1,0 +1,32 @@
+[
+    {   
+        "nome":"Michael Jackson",
+        "descricao":"O Rei do Pop, um dos artistas mais influentes da história da música.",
+        "ano":1958,
+        "link":"https://www.youtube.com/watch?v=Zi_XLOBDo_Y"
+    },
+    {
+        "nome":"Queen",
+        "descricao":"Banda de rock britânica formada em 1970, conhecida por sua diversidade musical e performances energéticas.",
+        "ano":1970,
+        "link":"https://youtu.be/HgzGwKwLmgM?si=fzFpKv9SI15ItCQx"
+    },
+    {
+        "nome":"The Beatles",
+        "descricao":"Banda de rock de Liverpool que se tornou uma das mais influentes e bem-sucedidas da história.",
+        "ano":1960,
+        "link":"https://youtu.be/2RicaUqd9Hg?si=whUb8er-a5yQx-vM"
+    },
+    {
+        "nome":"Bob Marley",
+        "descricao":"O mais conhecido músico de reggae de todos os tempos, famoso por popularizar o gênero musical.",
+        "ano":1945,
+        "link":"https://youtu.be/69RdQFDuYPI?si=oWe-z8vitlhKQD-u"
+    },
+    {
+        "nome":"Daft Punk",
+        "descricao":"Dupla francesa de música eletrônica, pioneira no movimento french house.",
+        "ano":1993,
+        "link":"https://youtu.be/CCHdMIEGaaM?si=IwGee2kWdEv-tMuC"
+    }
+]
